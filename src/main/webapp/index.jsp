@@ -1,11 +1,11 @@
 <html>
 <body>
   <h2>Hello Hammad Siddiqui ?</h2>
-<h3>Welcome to Cloud With Hammad| Microsoft Certified Security Engineer, Azure & AWS Solution Architect </h3>
+<h3>Welcome to Cloud With Mumbake| Microsoft Certified Security Engineer and AWS Solution Architect </h3>
   
 <marquee>Welcome to Cloud With Hammad</marquee>
 
-<marquee direction="up">Welcome to Cloud With Hammad| DEVOPS </marquee>
+<marquee direction="up">Welcome to Cloud With Mumbake| DEVOPS </marquee>
 
 <marquee direction="down" width="250" height="200" behavior="alternate" style="border:solid">
   <marquee behavior="alternate">
